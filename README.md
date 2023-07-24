@@ -2,7 +2,7 @@
 <!-- Encabezado con ícono -->
 # <img src="https://raw.githubusercontent.com/kgtoledoc/path/to/icon.png" width="30"> Kevin Toledo
 
-I'm engineer that like solve problem and very appasionate for emergent technology: Cloud/DevOps, Cybsersecurity, Software -AI/ML, IoT
+I'm engineer that like solve problem and I'm very appasionate for emergent technology: Cloud/DevOps, Cybsersecurity, Software -AI/ML, IoT.
 
 ## Proyectos Destacados
 
