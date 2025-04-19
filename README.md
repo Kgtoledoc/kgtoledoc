@@ -1,6 +1,6 @@
 
 <!-- Encabezado con ícono -->
-# <img src="https://raw.githubusercontent.com/kgtoledoc/path/to/icon.png" width="30"> Kevin Toledo
+# Kevin Toledo
 
 I'm engineer that like solve problem and I'm very appasionate for emergent technology: Cloud/DevOps, Cybsersecurity, Software -AI/ML, IoT.
 
@@ -23,19 +23,13 @@ I'm engineer that like solve problem and I'm very appasionate for emergent techn
 
 [Si deseas que te contacten o colaborar en proyectos, proporciona tus datos de contacto, como correo electrónico o redes sociales.]
 
-- Email: [tu-email@example.com]
-- LinkedIn: [LinkedIn URL] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/linkedin-icon.png" width="20">
-- Twitter: [@TuUsuarioTwitter] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/twitter-icon.png" width="20">
+- Email: [kgtoledoc@gmail.com]
+- LinkedIn: [https://linkedin.com/kgtoledoc] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/linkedin-icon.png" width="20">
+- Twitter: [@GioK3r] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/twitter-icon.png" width="20">
 
-## Contribuciones
 
-[Si has contribuido a proyectos de código abierto, puedes mencionarlos aquí y proporcionar enlaces a los repositorios o perfiles de los proyectos.]
-
-1. [Nombre del Proyecto de Código Abierto 1](enlace-del-repositorio) - Una breve descripción de tu contribución.
-
-2. [Nombre del Proyecto de Código Abierto 2](enlace-del-repositorio) - Una breve descripción de tu contribución.
 
 ## Agradecimientos
 
-[Agradece a las personas, comunidades o fuentes de aprendizaje que te hayan ayudado en tu camino como desarrollador.]
+A mi familia, que es el motor que me impulsa dia a dia.
 
