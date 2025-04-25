@@ -16,8 +16,8 @@ I'm engineer that like solve problem and I'm very appasionate for emergent techn
 
 [Enumera tus habilidades en el desarrollo de software, lenguajes de programación, tecnologías, frameworks o cualquier otra cosa relevante para tu perfil.]
 
-- Lenguajes de programación: [Lenguaje 1] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/language-icon.png" width="20">, [Lenguaje 2] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/language-icon.png" width="20">, [Lenguaje 3] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/language-icon.png" width="20">.
-- Tecnologías y herramientas: [Tecnología 1] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/tech-icon.png" width="20">, [Tecnología 2] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/tech-icon.png" width="20">, [Tecnología 3] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/tech-icon.png" width="20">.
+- Lenguajes de programación: [Python] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/language-icon.png" width="20">, [Node.js] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/language-icon.png" width="20">, [Java] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/language-icon.png" width="20">.
+- Tecnologías y herramientas: [AWS] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/tech-icon.png" width="20">, [DevOps] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/tech-icon.png" width="20">, [Kubernetes] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/tech-icon.png" width="20">.
 
 ## Contacto
 
