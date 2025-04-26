@@ -12,6 +12,8 @@ A continuacion se enumeran los proyectos en los que he estado trabajando.
 
 2. [Image Processor - EKS](https://github.com/Kgtoledoc/image-processor) - Proyecto que muestra como se puede usar el protocolo gRPC dentro de un ambiente de AWS. La infrastructura se maneja con Terraform y el CICD es mediante AWS Codepipeline.
 
+3. [Real Time Chat Backend](https://github.com/Kgtoledoc/real-time-chat-app-backend) - Proyecto backend que usa Websocket para una aplicacion de chat.
+
 ## Habilidades
 
 [Enumera tus habilidades en el desarrollo de software, lenguajes de programación, tecnologías, frameworks o cualquier otra cosa relevante para tu perfil.]
