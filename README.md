@@ -16,7 +16,7 @@ A continuacion se enumeran los proyectos en los que he estado trabajando.
 
 ## Habilidades
 
-[Enumera tus habilidades en el desarrollo de software, lenguajes de programación, tecnologías, frameworks o cualquier otra cosa relevante para tu perfil.]
+Estas son las principales tecnologias y stacks en los que tengo experiencia.
 
 - Lenguajes de programación: [Python] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/language-icon.png" width="20">, [Node.js] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/language-icon.png" width="20">, [Java] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/language-icon.png" width="20">.
 - Tecnologías y herramientas: [AWS] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/tech-icon.png" width="20">, [DevOps] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/tech-icon.png" width="20">, [Kubernetes] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/tech-icon.png" width="20">.
