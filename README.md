@@ -6,7 +6,7 @@ I'm engineer that like solve problem and I'm very appasionate for emergent techn
 
 ## Proyectos Destacados
 
-[Enumera algunos de los proyectos más destacados en los que has trabajado. Incluye una breve descripción y enlaces a los repositorios de GitHub si están disponibles.]
+A continuacion se enumeran los proyectos en los que he estado trabajando.
 
 1. [Porfolio](https://portfolio-page-coral.vercel.app/) - Proyecto que muestra el codigo creado para el portfolio. Este fue desplegado en el siguiente link.
 
