@@ -25,7 +25,7 @@ Estas son las principales tecnologias y stacks en los que tengo experiencia.
 
 [Si deseas que te contacten o colaborar en proyectos, proporciona tus datos de contacto, como correo electrónico o redes sociales.]
 
-- Email: [kgtoledoc@gmail.com]
+- Email: [kgtoledoc19@gmail.com]
 - LinkedIn: [https://linkedin.com/in/kgtoledoc] 
 - Twitter: [@GioK3r] 
 
