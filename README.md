@@ -18,16 +18,16 @@ A continuacion se enumeran los proyectos en los que he estado trabajando.
 
 Estas son las principales tecnologias y stacks en los que tengo experiencia.
 
-- Lenguajes de programación: [Python] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/language-icon.png" width="20">, [Node.js] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/language-icon.png" width="20">, [Java] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/language-icon.png" width="20">.
-- Tecnologías y herramientas: [AWS] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/tech-icon.png" width="20">, [DevOps] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/tech-icon.png" width="20">, [Kubernetes] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/tech-icon.png" width="20">.
+- Lenguajes de programación: [Python], [Node.js], [Java], [Typescript].
+- Tecnologías y herramientas: [AWS] , [DevOps] , [Kubernetes], [Terraform].
 
 ## Contacto
 
 [Si deseas que te contacten o colaborar en proyectos, proporciona tus datos de contacto, como correo electrónico o redes sociales.]
 
 - Email: [kgtoledoc@gmail.com]
-- LinkedIn: [https://linkedin.com/kgtoledoc] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/linkedin-icon.png" width="20">
-- Twitter: [@GioK3r] <img src="https://raw.githubusercontent.com/<TU_USUARIO>/path/to/twitter-icon.png" width="20">
+- LinkedIn: [https://linkedin.com/in/kgtoledoc] 
+- Twitter: [@GioK3r] 
 
 
 
