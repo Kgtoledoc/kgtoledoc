@@ -15,6 +15,7 @@ A continuacion se enumeran los proyectos en los que he estado trabajando.
 3. [Real Time Chat Backend](https://github.com/Kgtoledoc/real-time-chat-app-backend) - Proyecto backend que usa Websocket para una aplicacion de chat.
 
 4. [Real Time Chat Frontend](https://github.com/Kgtoledoc/real-time-chat-app-frontend) - Proyecto frontend que usa Websocket para una aplicacion de chat y Next.js + Tailwind para estilos.
+5. [Frontend Cognito](https://github.com/Kgtoledoc/frontend-cognito) - Proyecto frontend que usa React con AWS Cognito para hacer el SignIn y SignUp.
 
 ## Habilidades
 
